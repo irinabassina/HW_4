@@ -59,3 +59,12 @@ Host: localhost:8080
 Что оценивается
 
 Дизайн API и работа в соответствии с функциональными требованиями.
+
+* Для запуска приложения в терминале используйте команды:
+
+```bash
+go build
+.\HW4.exe
+```
+
+Примеры Rest запросов для Postman можно найти в [go_hw_4.postman_collection.json](./go_hw_4.postman_collection.json)
